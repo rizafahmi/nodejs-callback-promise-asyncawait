@@ -2,5 +2,8 @@
   "name": "callback_promise_asyncawait",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
