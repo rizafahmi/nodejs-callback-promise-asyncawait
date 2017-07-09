@@ -1,0 +1,6 @@
+{
+  "name": "callback_promise_asyncawait",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
